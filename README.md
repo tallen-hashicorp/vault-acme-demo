@@ -20,4 +20,10 @@ sh 02-setup-caddy-server-http.sh
 sh 03-deploy-vault.sh
 sh 04-enable_engines.sh
 sh 05-configure-acme.sh
+sh 06-setup-caddy-server-https.sh
+```
+
+## Cleanup
+```bash
+sh 99-cleanup.sh
 ```
