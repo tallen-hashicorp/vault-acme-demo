@@ -1,5 +1,5 @@
 #!/bin/bash
-export HC_LEARN_LAB=$pwd
+export HC_LEARN_LAB=$PWD
 docker network create \
     --driver=bridge \
     --subnet=10.1.1.0/24 \

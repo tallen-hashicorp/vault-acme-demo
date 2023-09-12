@@ -1,0 +1,9 @@
+   {
+      acme_ca http://10.1.1.100:8200/v1/pki_int/acme/directory
+   }
+   
+   
+   caddy-server {
+      root * /usr/share/caddy
+      file_server browse
+   }

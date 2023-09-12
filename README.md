@@ -16,4 +16,8 @@ The hands-on lab scenario presented here uses the [Caddy](https://caddyserver.c
 ## Running Demo from scratch
 ```bash
 sh 01-hands-on-lab.sh
+sh 02-setup-caddy-server-http.sh
+sh 03-deploy-vault.sh
+sh 04-enable_engines.sh
+sh 05-configure-acme.sh
 ```
