@@ -1,5 +1,5 @@
 # vault-acme-demo
-A simple ACME Demo taken from the [Enable ACME with PKI secrets engine](https://developer.hashicorp.com/vault/tutorials/new-release/pki-acme-caddy#deploy-http-caddy-container) tutoiral
+A simple ACME Demo taken from the [Enable ACME with PKI secrets engine](https://developer.hashicorp.com/vault/tutorials/new-release/pki-acme-caddy#deploy-http-caddy-container) tutorial
 
 ## Challenge
 
